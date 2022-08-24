@@ -1,0 +1,207 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+}
+
+
+.topBanner{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 8% 0%;
+}
+
+.banner-details h1{
+    font-size: 65px;
+    color: white;   
+}
+.banner-details{
+    width: 900px;
+    margin: 0 auto;
+}
+.banner-details p{
+    color: white;
+    padding: 0% 10%;
+    line-height: 30px;
+}
+
+.common-btn{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 30px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 500;
+    display: inline-block;
+    margin: 30px 0px;
+    
+}
+
+.donate-today{
+    text-align: center;
+    width: 950px;
+    margin: 0 auto;
+}
+
+.section-title{
+    width: 950px;
+    margin: 0 auto;
+}
+.section-title h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    margin: 40px 0px;
+}
+.section-title p{
+    font-size: 18px;
+    color: #707070;
+    margin: 0% 15%;
+    line-height: 25px;
+    
+}
+
+
+.pricing-list{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;
+}
+
+.price-selected{
+    color: #FF5959 !important;
+    background-color: #ff595923 !important;
+    border: 2px solid #FF5959;
+}
+
+.price-item{
+    padding: 35px 25px;
+    background-color: #FAFAFA;
+    margin: 10px;
+    border-radius: 6px;
+    font-size: 22px;
+    font-weight:700;
+    color: #707070;
+}
+.common-input{
+    width: 80%;
+    border: none;
+    border-bottom:1px solid #dadada62;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 200;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.donate-plan{
+    width:1150px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.donate-plan-section{
+    display: flex;
+    padding: 35px 0px;
+}
+.donate-item{
+    width: 31%;
+    margin: 1%;
+    padding: 45px 30px;
+    text-align: left;
+    border-radius: 6px;
+}
+
+.blog-section{
+    display: flex;
+    width: 1150px;
+    margin: 0 auto;
+    
+}
+.half-width{
+    width: 50%;
+    margin: 5% 2%;
+    
+}
+.half-width h1{
+    margin: 10px 0px;
+}
+.half-width img{
+    width: 100%;
+}
+.blog-section p{
+    margin: 0px ;
+}
+
+.gallery-section{
+    text-align: center;
+    width: 1050px;
+
+}
+.photo-gallery{
+    display:flex;
+    flex-wrap: wrap;
+}
+.photo-gallery img{
+    width: 31%;
+    margin: 1%;
+    border-radius: 5px;
+}
+
+.my-update-section{
+    text-align: center;
+    padding: 40px 0px;
+}
+
+
+.form-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    /* border: 1px solid rgba(71, 71, 71, 0.205); */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(78, 78, 78, 0.15);
+    text-align: center;
+    
+}
+.form-section input{
+    width: 42% !important;
+    /* border: none; */
+    border:1px solid #dadada62;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 15px 10px;
+    display: block;
+    margin: 10px 20px;
+    box-shadow: 2px 2px 5px rgba(78, 78, 78, 0.068);
+
+    font-family: 'Montserrat', sans-serif;
+}
+.form-button{
+    margin: 0 auto;
+}
+
+footer{
+    background-color: rgb(29, 29, 29);
+    text-align: center;
+    padding: 40px;
+}
+footer h1{
+    color: white;
+}
+footer img{
+    width: 30px;
+    padding: 0px 10px;
+}
+
+
+footer p{
+    color: white;
+}
